@@ -1,0 +1,25 @@
+packages/deepinfra/src/deepinfra-chat-language-model.ts
+  s_4656619a2d4a33::t_17e2327298e5d1 18
+packages/deepinfra/src/deepinfra-provider.ts
+  s_4656619a2d4a33::t_8bfb11bea9d72b 121-124
+.changeset/deepinfra-structured-outputs.md
+  s_4656619a2d4a33::t_b1890da43e98be 1-5
+packages/deepinfra/src/deepinfra-provider.test.ts
+  s_4656619a2d4a33::t_ff4d86a213097d 115-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "381b2d5e853385f86d3e39ca87a27fca1aa5c7c8",
+  "prompts": {},
+  "sessions": {
+    "s_4656619a2d4a33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a1cde0b6-1f6c-4d09-9f7e-6c2e8a21baa8",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Gaurav Arora <whoarora@gmail.com>"
+    }
+  }
+}
