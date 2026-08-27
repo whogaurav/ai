@@ -1,0 +1,33 @@
+packages/togetherai/src/togetherai-chat-options.ts
+  s_e06a1d570ea170::t_d508cfc9062845 23
+packages/togetherai/src/togetherai-provider.ts
+  s_e06a1d570ea170::t_8defb4a105dfad 117-122,160
+examples/ai-functions/src/generate-text/togetherai/output-object.ts
+  s_e06a1d570ea170::t_d508cfc9062845 23-24
+  s_e06a1d570ea170::t_8defb4a105dfad 8
+packages/togetherai/src/togetherai-provider.test.ts
+  s_e06a1d570ea170::t_7b30bf90cad9b9 215,315
+  s_e06a1d570ea170::t_8defb4a105dfad 23-26,210-214,216-223,309-314,316-319
+  s_e06a1d570ea170::t_21d77818287da5 320
+.changeset/togetherai-deepseek-v4-structured-outputs.md
+  s_e06a1d570ea170::t_8defb4a105dfad 1-5
+examples/ai-functions/src/stream-text/togetherai/output-object.ts
+  s_e06a1d570ea170::t_d508cfc9062845 23
+  s_e06a1d570ea170::t_8defb4a105dfad 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "6991281cc8c1399918f738954acb5891022c9046",
+  "prompts": {},
+  "sessions": {
+    "s_e06a1d570ea170": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a041c5-b1fc-7952-ac9e-325298b8f202",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Gaurav Arora <whoarora@gmail.com>"
+    }
+  }
+}
